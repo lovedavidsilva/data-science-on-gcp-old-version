@@ -1,5 +1,7 @@
 # data-science-on-gcp
 
+old version of the "data-science-on-gcp" repo for UNCC ITIS6320/8320 class "Cloud Data Storage"
+
 Source code accompanying book:
 
 <table>
